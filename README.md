@@ -1,3 +1,2 @@
 # hello-world
-此存储用于练习github流
-我是Java高手
+我要成为Java糕手
